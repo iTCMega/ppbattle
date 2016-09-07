@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
 
 body {
-  background-color: orange;
+  background-color: DEEPPINK;
   font-family: "Roboto", helvetica, arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -30,7 +30,7 @@ div.table-title {
 /*** Table Styles **/
 
 .table-fill {
-  background: yellow;
+  background: MEDIUMVIOLETRED;
   border-radius:3px;
   border-collapse: collapse;
   height: 320px;
